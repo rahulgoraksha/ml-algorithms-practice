@@ -1,14 +1,7 @@
-
----
-
-## 📦 STEP 5: Create a `requirements.txt`
-
-Add this file to your repo root:
-
-```txt
 numpy
 pandas
 matplotlib
 seaborn
 scikit-learn
 jupyter
+sklearn
